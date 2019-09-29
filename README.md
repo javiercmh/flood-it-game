@@ -6,14 +6,15 @@ A fun game I made using Processing. You start with a board full of colours and y
 
 Processing 3 will work although it was made with Processing 2.
 
-# Installation
+# Usage
 
 You have 2 possibilities:
  
-1. Download PC or Linux versions I made
-2. Clone repository and run from source code
+1. Play online [here](https://www.openprocessing.org/sketch/761031) (I also made an html file with the game embedded)
+2. Download PC or Linux versions
+3. Clone repository and run from source code
 
-## Option 2 only
+## If you choose option 3
 
 You can easily change the number of moves you get. Just change the `maxTurns` variable in `FloodIt.pde`:
 
