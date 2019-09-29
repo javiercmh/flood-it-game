@@ -4,7 +4,7 @@ class FloodIt{
   int c=6; // colour chosen
   int counter = 0;
   int turns = 0;
-  int maxTurns = 25;
+  int maxTurns = 25;   // HERE YOU CAN CHANGE THE MAX NUMBER OF MOVES
   color c0= color(0) ; // last colour
   boolean win = false; // winner?
 
