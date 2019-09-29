@@ -8,7 +8,7 @@ Processing 3 will work although it was made with Processing 2.
 
 # Usage
 
-You have 2 possibilities:
+You have 3 possibilities:
  
 1. Play online [here](https://www.openprocessing.org/sketch/761031) (I also made an html file with the game embedded)
 2. Download PC or Linux versions
