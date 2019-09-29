@@ -29,7 +29,7 @@ class FloodIt{
     fill(0);
     textSize(14);
     textAlign(0);
-    text("Choose a colour:",distance,30);
+    text("Pick a colour:",distance,30);
     textSize(16);
     text("Moves:",distance,30+135);
     
