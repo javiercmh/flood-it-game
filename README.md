@@ -12,3 +12,13 @@ You have 2 possibilities:
  
 1. Download PC or Linux versions I made
 2. Clone repository and run from source code
+
+# Screenshots
+
+That's me playing
+
+![Gameplay](/screenshots/gameplay.png?raw=true "Gameplay")
+
+Well, it's not all fun and games, you know :(
+
+![You Lose!](/screenshots/lose.png?raw=true "You Lose!")
